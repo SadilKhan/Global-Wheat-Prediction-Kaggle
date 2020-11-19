@@ -7,3 +7,5 @@ The data is images of wheat fields, with bounding boxes for each identified whea
 
 We are attempting to predict bounding boxes around each wheat head in images that have them. If there are no wheat heads, We will predict no bounding boxes.
 
+[Competition Link](https://www.kaggle.com/c/global-wheat-detection/overview)
+
